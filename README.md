@@ -131,11 +131,9 @@ You should see both models listed.
 Open **PowerShell** and run:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/VectorDB.git
+git clone https://github.com/joshi2727/VectorDB-AI-Project.git
 cd VectorDB
 ```
-
-*(Replace `YOUR_USERNAME` with the actual GitHub username)*
 
 ---
 
